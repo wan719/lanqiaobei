@@ -1,4 +1,4 @@
-package java_100.前缀和;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 // import java.util.Scanner;

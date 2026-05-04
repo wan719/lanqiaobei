@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Scanner;
 // 编写一个Java程序，实现华氏温度和摄氏温度的转换。
 public class java_009 {

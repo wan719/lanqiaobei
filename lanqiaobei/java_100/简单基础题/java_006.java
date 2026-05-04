@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Scanner;
 // 题目：输入一个五个字符的字符串，倒序输出。
 /**

@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 
 import java.util.Scanner;
 // 编写一个Java程序，输入一个不多于五位的整数，判断它是几位数，并逆序输出。

@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Scanner;
 // 编写一个Java程序，判断用户输入的年份是否为闰年。
 public class java_010 {

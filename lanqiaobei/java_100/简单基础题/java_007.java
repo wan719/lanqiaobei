@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 
 import java.util.Scanner;
 //输入一个五位数字，判断它是不是回文数。

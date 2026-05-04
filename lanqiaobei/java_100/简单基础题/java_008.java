@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Scanner;
 // 判断成绩等级，90分以上为A，60分以上为B，其他为C
 //使用正则表达式来判断成绩等级

@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 
 // import java.util.StringTokenizer;
 // import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Scanner;
 // 编写一个Java程序，将用户输入的十进制数转换为二进制数。
 public class java_015 {

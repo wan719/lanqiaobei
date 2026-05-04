@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Arrays;
 //编写一个Java程序，使用冒泡排序算法对一个整数数组进行排序。
 public class java_016 {

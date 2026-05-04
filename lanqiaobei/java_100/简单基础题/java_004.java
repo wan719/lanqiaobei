@@ -1,4 +1,4 @@
-package java_100.简单基础题;
+
 import java.util.Scanner;
 // 题目：统计字符串中各种类型的字符个数。包括：英文字母、空格、数字和其他字符。
 public class java_004 {
